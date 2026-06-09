@@ -1,6 +1,8 @@
 # LHGEL
 Code of the paper: LHGEL: Large Heterogeneous Graph Ensemble Learning using Batch View Aggregation
+
 The camera-ready paper for ICDM 25 can be found at: 
+
 ## Requirements
 
 #### 1. Neural network libraries for GNNs
