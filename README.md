@@ -1,7 +1,7 @@
 # LHGEL
 Code of the paper: LHGEL: Large Heterogeneous Graph Ensemble Learning using Batch View Aggregation
 
-The camera-ready paper for ICDM 25 can be found at: 
+The camera-ready paper for ICDM 25 can be found at: [LHGEL](https://www.computer.org/csdl/proceedings-article/icdm/2025/959900a713/2eowomO8ivm)
 
 ## Requirements
 
