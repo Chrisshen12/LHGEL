@@ -21,4 +21,18 @@ These datasets include four medium-scale datasets. Please download them from pyt
 
 ---
 
+## Citation
+
+If you find this work useful in your research, please cite:
+
+```bibtex
+@inproceedings{LHGEL,
+  title={{LHGEL}: Large Heterogeneous Graph Ensemble Learning using Batch View Aggregation},
+  author={Jiajun Shen and Yufei Jin and Yi He and Xingquan Zhu},
+  booktitle={Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+  year={2025},
+  pages={713--722}
+}
+```
+
 If you encounter any issues, please feel free to reach out to me at jshen2024@fau.edu.
