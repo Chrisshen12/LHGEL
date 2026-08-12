@@ -27,12 +27,12 @@ If you find this work useful in your research, please cite:
 
 ```bibtex
 @inproceedings{LHGEL,
-  title={LHGEL: Large Heterogeneous Graph Ensemble Learning using Batch View Aggregation},
-  author={Jiajun Shen and Yufei Jin and Yi He and Xingquan Zhu},
-  booktitle={Proceedings of the IEEE International Conference on Data Mining (ICDM)},
-  year={2025},
+  title = {LHGEL: Large Heterogeneous Graph Ensemble Learning using Batch View Aggregation},
+  author = {Jiajun Shen and Yufei Jin and Yi He and Xingquan Zhu},
+  booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+  year = {2025},
   month = {11},
-  pages={713--722}
+  pages = {713--722}
   doi = {10.1109/ICDM65498.2025.00079}
 }
 ```
